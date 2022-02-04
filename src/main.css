@@ -1,0 +1,38 @@
+input[type=text] {
+    width: 33%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid rgb(20, 20, 20);
+    border-radius: 4px;
+  }
+
+
+  .div{
+      margin-left:20%;
+      margin-top:5%;
+  }
+
+  .div2{
+    margin-left:20%;
+  
+}
+
+
+  button {
+    width: 18%;
+    padding: 12px 20px;
+    margin-left:30%;
+    margin-top:
+    box-sizing: border-box;
+    border: 2px solid rgb(13, 14, 13);
+    border-radius: 4px;
+    background-color: rgb(139, 155, 160);
+    margin-bottom:5%;
+  }
+
+  /* p{
+      margin-left:30%;
+      padding-left:30%;
+  }
+   */
